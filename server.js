@@ -4,7 +4,7 @@
  *  assignment has been copied manually or electronically from any other source (including web sites) or
  *  distributed to other students.
  *
- *  Name: Aashna Kundra Student ID: 163028210 Date: 3/30/2023
+ *  Name: Aashna kundra Student ID: 163028210 Date: 3/30/2023
  *
  *  Cyclic Web App URL: https://misty-gray-sock.cyclic.app/
  *
